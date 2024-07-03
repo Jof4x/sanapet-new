@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c94c72e-b24f-452f-aa3c-fddbb2ed6eea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c94c72e-b24f-452f-aa3c-fddbb2ed6eea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -69,7 +66,7 @@
     "Spring Boot.SabuesoApplication.executor": "Run",
     "Spring Boot.SanapetApplication.executor": "Run",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Sanapetcambios/sanapet",
     "node.js.detected.package.eslint": "true",
@@ -132,7 +129,7 @@
       <workItem from="1715207482155" duration="4819000" />
       <workItem from="1718828139182" duration="1224000" />
       <workItem from="1718832461394" duration="334000" />
-      <workItem from="1720045912290" duration="323000" />
+      <workItem from="1720045912290" duration="625000" />
     </task>
     <servers />
   </component>
